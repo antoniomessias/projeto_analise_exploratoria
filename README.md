@@ -10,8 +10,8 @@
 
 | Nome | Matrícula |
 |------|-----------|
-| [Nome do integrante 1] | [Matrícula] |
-| [Nome do integrante 2] | [Matrícula] |
+| Antonio Messias | CP 3026451 |
+| Alan Rocha | CP 3025039 |
 
 ---
 
